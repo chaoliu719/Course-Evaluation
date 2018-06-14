@@ -1,5 +1,5 @@
 ^c::
-	Send, 10
+	Send, 9
 	Send, {TAB down}{TAB up}
 	Send, 10
 	Send, {TAB down}{TAB up}	
@@ -30,7 +30,7 @@ Return
 
 
 ^s::
-	Send, 10
+	Send, 9
 	Send, {TAB down}{TAB up}
 	Send, 15
 	Send, {TAB down}{TAB up}	
@@ -69,7 +69,7 @@ Return
 
 
 ^t::
-	Send, 10
+	Send, 9
 	Send, {TAB down}{TAB up}
 	Send, 8
 	Send, {TAB down}{TAB up}	
