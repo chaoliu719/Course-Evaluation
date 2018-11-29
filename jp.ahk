@@ -1,4 +1,4 @@
-^c::
+﻿^c::
 	Send, 9
 	Send, {TAB down}{TAB up}
 	Send, 10
@@ -23,6 +23,7 @@
 	Send, {TAB down}{TAB up}
 	Send, 100
 	Send, {TAB down}{TAB up}
+	Send, 老师非常棒
 	Send, {TAB down}{TAB up}
 	Send, {TAB down}{TAB up}
 
@@ -61,7 +62,8 @@ Return
 	Send, 100
 	Send, {TAB down}{TAB up}	
 	Send, 100
-	Send, {TAB down}{TAB up}	
+	Send, {TAB down}{TAB up}
+	Send, 老师非常棒	
 	Send, {TAB down}{TAB up}
 	Send, {TAB down}{TAB up}
 
@@ -76,7 +78,7 @@ Return
 	Send, 10
 	Send, {TAB down}{TAB up}	
 	Send, 10
-	Send, {TAB down}{TAB up}	
+	Send, {TAB down}{TAB up}
 	Send, 13
 	Send, {TAB down}{TAB up}	
 	Send, 5
@@ -93,5 +95,6 @@ Return
 	Send, {TAB down}{TAB up}
 	Send, 100
 	Send, {TAB down}{TAB up}
+	Send, 老师非常棒
 	Send, {TAB down}{TAB up}
 	Send, {TAB down}{TAB up}
